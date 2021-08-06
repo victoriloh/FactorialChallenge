@@ -1,0 +1,10 @@
+{
+  "Url":{
+    "url": "http://localhost:6464/"
+  },
+
+  "Invalid_Login_format":{
+    "email": "viloh@faster@faster.com",
+    "phone": "+23409"
+  }
+}
